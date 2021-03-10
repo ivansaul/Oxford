@@ -1,7 +1,7 @@
 # Oxford
 List of the most important words to learn English.
 
-A dataset of over 5,000 most important words to learn English taken from [[Oxford Learner's Dictionaries]](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000). All words are arranged alphabetically in the [`oxford.csv`](oxford.csv) file.
+A dataset of over 5,000 most important words to learn English taken from [[Oxford Learner's Dictionaries]](https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000). All words are arranged alphabetically in the [`oxford.csv`](oxford.csv) or [`oxford.json`](oxford.json) file.
 
 |   word   |  type_word  | level |     uk_mp3     |     uk_ogg     |     us_mp3     |     us_ogg     |
 |:--------:|:-----------:|:-----:|:--------------:|:--------------:|:--------------:|:--------------:|

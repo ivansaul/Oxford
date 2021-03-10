@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
+# In[8]:
 
 
 #pip install beautifulsoup4 requests
@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-# In[2]:
+# In[9]:
 
 
 url='https://www.oxfordlearnersdictionaries.com/wordlists/oxford3000-5000'
@@ -23,7 +23,7 @@ content = soup.find('ul',class_='top-g')
 
 # ## **Word**
 
-# In[3]:
+# In[10]:
 
 
 word=[]
@@ -36,7 +36,7 @@ for li in content.find_all('li'):
 
 # ## **Word type**
 
-# In[4]:
+# In[11]:
 
 
 type_word=[]
@@ -46,7 +46,7 @@ for li in content.find_all('li'):
 
 # ## **Level**
 
-# In[5]:
+# In[12]:
 
 
 level=[]
@@ -59,7 +59,7 @@ for li in content.find_all('li'):
 
 # ## **Audio**
 
-# In[6]:
+# In[13]:
 
 
 uk_mp3=[]
@@ -83,7 +83,7 @@ for li in content.find_all('li'):
 
 # ## **Save as csv**
 
-# In[7]:
+# In[14]:
 
 
 fields={'word':word,
@@ -96,4 +96,5 @@ fields={'word':word,
 
 df=pd.DataFrame(fields)
 df.to_csv('oxford.csv',index=False)
+df.to_json('oxford.json', orient = 'records',indent=4)
 
