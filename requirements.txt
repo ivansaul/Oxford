@@ -1,3 +1,9 @@
 beautifulsoup4==4.9.3
 requests==2.24.0
 pandas==1.2.3
+
+#translate
+translatepy==1.5.2
+
+#multiprocessing
+pandarallel==1.5.2

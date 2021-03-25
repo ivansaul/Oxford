@@ -2,3 +2,5 @@ venv
 .vscode
 *.ipynb_checkpoints
 *.pyc
+
+addeg/test*.json
