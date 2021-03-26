@@ -7,3 +7,6 @@ translatepy==1.5.2
 
 #multiprocessing
 pandarallel==1.5.2
+
+#progress bar
+tqdm==4.59.0
