@@ -1,0 +1,21 @@
+{
+    "word": "cat",
+    "examples": [
+        [
+            "a tin of cat food ",
+            "una lata de comida para gatos"
+        ],
+        [
+            "I have a cat called Bo.",
+            "Tengo un gato llamado Bo."
+        ],
+        [
+            "a pet/domestic cat",
+            "una mascota / gato dom\u00e9stico"
+        ],
+        [
+            "a stray/feral cat",
+            "un gato callejero / salvaje"
+        ]
+    ]
+}

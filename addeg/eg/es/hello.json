@@ -1,0 +1,21 @@
+{
+    "word": "hello",
+    "examples": [
+        [
+            "Hello John, how are you?",
+            "\u00bfHola John C\u00f3mo est\u00e1s?"
+        ],
+        [
+            "Hello, is there anybody there?",
+            "Hola, \u00bfhay alguien ah\u00ed?"
+        ],
+        [
+            "Say hello to Liz for me.",
+            "Saluda a Liz de mi parte."
+        ],
+        [
+            "They exchanged hellos (= said hello to each other) and forced smiles.",
+            "Intercambiaron saludos (= se saludan) y sonrisas forzadas."
+        ]
+    ]
+}

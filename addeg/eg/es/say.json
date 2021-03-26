@@ -1,0 +1,21 @@
+{
+    "word": "say",
+    "examples": [
+        [
+            "\u2018Hello!\u2019 she said.",
+            "`` \u00a1Hola! '', Dijo."
+        ],
+        [
+            "\u2018That was marvellous,\u2019 said Daniel.",
+            "\"Eso fue maravilloso\", dijo Daniel."
+        ],
+        [
+            "A legendary football coach once said, \u2018Winning is everything.\u2019 ",
+            "Un entrenador de f\u00fatbol legendario dijo una vez: \"Ganar lo es todo\"."
+        ],
+        [
+            "Be quiet, I have something to say.",
+            "C\u00e1llate, tengo algo que decirte."
+        ]
+    ]
+}

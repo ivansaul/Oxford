@@ -1,0 +1,21 @@
+{
+    "word": "weather",
+    "examples": [
+        [
+            "cold/hot/warm/wet/dry weather",
+            "clima fr\u00edo / caliente / c\u00e1lido / h\u00famedo / seco"
+        ],
+        [
+            "severe/extreme weather",
+            "clima severo / extremo"
+        ],
+        [
+            "good/bad weather",
+            "buen / mal tiempo"
+        ],
+        [
+            "Flights have been delayed because of the inclement weather.",
+            "Los vuelos se han retrasado debido a las inclemencias del tiempo."
+        ]
+    ]
+}

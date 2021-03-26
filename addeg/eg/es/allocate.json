@@ -1,0 +1,21 @@
+{
+    "word": "allocate",
+    "examples": [
+        [
+            "Unable to allocate entropy data buffer.",
+            "No se puede asignar el b\u00fafer de datos de entrop\u00eda."
+        ],
+        [
+            "Percentage left to allocate.",
+            "Porcentaje restante para asignar."
+        ],
+        [
+            "To quickly allocate capacity, the user simply selects a pool ...",
+            "Para asignar capacidad r\u00e1pidamente, el usuario simplemente selecciona un grupo ..."
+        ],
+        [
+            "You can allocate the whole volume to a single virtual machine ...",
+            "Puede asignar todo el volumen a una sola m\u00e1quina virtual ..."
+        ]
+    ]
+}

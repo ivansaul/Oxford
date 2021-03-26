@@ -1,0 +1,17 @@
+{
+    "word": "array",
+    "examples": [
+        [
+            "a vast array of bottles of different shapes and sizes",
+            "una amplia gama de botellas de diferentes formas y tama\u00f1os"
+        ],
+        [
+            "a dazzling array of talent",
+            "una deslumbrante variedad de talentos"
+        ],
+        [
+            "a 400-element rectangular array was used to represent the load distribution and stress points.",
+            "Se utiliz\u00f3 una matriz rectangular de 400 elementos para representar la distribuci\u00f3n de carga y los puntos de tensi\u00f3n."
+        ]
+    ]
+}

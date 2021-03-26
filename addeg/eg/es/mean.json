@@ -1,0 +1,21 @@
+{
+    "word": "mean",
+    "examples": [
+        [
+            "What does this sentence mean?",
+            "\u00bfQu\u00e9 significa esta oraci\u00f3n?"
+        ],
+        [
+            "What does \u2018lark\u2019 mean?",
+            "\u00bfQu\u00e9 significa \"alondra\"?"
+        ],
+        [
+            " The word \u2018Kuching\u2019 means \u2018cat\u2019 in Malay.",
+            "La palabra \"Kuching\" significa \"gato\" en malayo."
+        ],
+        [
+            "Many languages use a single word to mean both music and dance.",
+            "Muchos idiomas usan una sola palabra para referirse tanto a la m\u00fasica como a la danza."
+        ]
+    ]
+}

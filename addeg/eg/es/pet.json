@@ -1,0 +1,21 @@
+{
+    "word": "pet",
+    "examples": [
+        [
+            "Do you have any pets?",
+            "\u00bfTiene mascotas?"
+        ],
+        [
+            "a pet dog/hamster ",
+            "un perro mascota / h\u00e1mster"
+        ],
+        [
+            "a family pet ",
+            "una mascota familiar"
+        ],
+        [
+            "exotic pets",
+            "mascotas exoticas"
+        ]
+    ]
+}

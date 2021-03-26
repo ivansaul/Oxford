@@ -1,0 +1,21 @@
+{
+    "word": "id",
+    "examples": [
+        [
+            "This command will display the alarm id of every record it ...",
+            "Este comando mostrar\u00e1 la identificaci\u00f3n de alarma de cada registro que ..."
+        ],
+        [
+            "The task id you select must be for an ...",
+            "La identificaci\u00f3n de la tarea que seleccione debe ser para un ..."
+        ],
+        [
+            "... an id, that id will be in this place.",
+            "... una identificaci\u00f3n, esa identificaci\u00f3n estar\u00e1 en este lugar."
+        ],
+        [
+            "... the collection with the id destination id.",
+            "... la colecci\u00f3n con el id id de destino."
+        ]
+    ]
+}

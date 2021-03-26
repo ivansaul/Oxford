@@ -1,0 +1,21 @@
+{
+    "word": "prescription",
+    "examples": [
+        [
+            "The doctor gave me a prescription for antibiotics.",
+            "El m\u00e9dico me recet\u00f3 antibi\u00f3ticos."
+        ],
+        [
+            "Antibiotics are only available on prescription.",
+            "Los antibi\u00f3ticos solo est\u00e1n disponibles con receta."
+        ],
+        [
+            "Antibiotics are only available by prescription.",
+            "Los antibi\u00f3ticos solo est\u00e1n disponibles con receta m\u00e9dica."
+        ],
+        [
+            "They are not available without a prescription.",
+            "No est\u00e1n disponibles sin receta m\u00e9dica."
+        ]
+    ]
+}

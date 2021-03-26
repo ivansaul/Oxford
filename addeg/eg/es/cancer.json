@@ -1,0 +1,21 @@
+{
+    "word": "cancer",
+    "examples": [
+        [
+            "breast/lung cancer",
+            "c\u00e1ncer de mama / pulm\u00f3n"
+        ],
+        [
+            "Most skin cancers are completely curable.",
+            "La mayor\u00eda de los c\u00e1nceres de piel son completamente curables."
+        ],
+        [
+            "cancer of the colon/cervix",
+            "c\u00e1ncer de colon / cuello uterino"
+        ],
+        [
+            "The cancer has spread to his stomach.",
+            "El c\u00e1ncer se ha extendido a su est\u00f3mago."
+        ]
+    ]
+}

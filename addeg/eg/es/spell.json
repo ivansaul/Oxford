@@ -1,0 +1,21 @@
+{
+    "word": "spell",
+    "examples": [
+        [
+            "How do you spell your surname?",
+            "\u00bfComo deletrea su apellido?"
+        ],
+        [
+            "You've spelt my name wrong.",
+            "Has escrito mal mi nombre."
+        ],
+        [
+            "I thought her name was Catherine, but it's Kathryn spelt with a \u2018K\u2019.",
+            "Pens\u00e9 que su nombre era Catherine, pero es Kathryn escrito con una \"K\"."
+        ],
+        [
+            "Should 'internet' be spelled with a capital or lower case i?",
+            "\u00bfDeber\u00eda escribirse 'internet' con una i may\u00fascula o min\u00fascula?"
+        ]
+    ]
+}

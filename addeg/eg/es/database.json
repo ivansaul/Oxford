@@ -1,0 +1,21 @@
+{
+    "word": "database",
+    "examples": [
+        [
+            "The database is at this moment temporary not available.",
+            "En este momento, la base de datos no est\u00e1 disponible temporalmente."
+        ],
+        [
+            "This database allows online searches for terms.",
+            "Esta base de datos permite b\u00fasquedas de t\u00e9rminos en l\u00ednea."
+        ],
+        [
+            "The database name must be specified.",
+            "Debe especificarse el nombre de la base de datos."
+        ],
+        [
+            "Check that the database is writable.",
+            "Compruebe que se pueda escribir en la base de datos."
+        ]
+    ]
+}

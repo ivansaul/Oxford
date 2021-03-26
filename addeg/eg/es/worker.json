@@ -1,0 +1,21 @@
+{
+    "word": "worker",
+    "examples": [
+        [
+            "farm/factory/office workers",
+            "trabajadores agr\u00edcolas / de f\u00e1bricas / de oficina"
+        ],
+        [
+            "construction/health/care workers",
+            "trabajadores de la construcci\u00f3n / salud / cuidado"
+        ],
+        [
+            "manual/skilled/unskilled workers",
+            "trabajadores manuales / calificados / no calificados"
+        ],
+        [
+            "temporary/part-time/casual workers",
+            "trabajadores temporales / a tiempo parcial / ocasionales"
+        ]
+    ]
+}

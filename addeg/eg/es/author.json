@@ -1,0 +1,21 @@
+{
+    "word": "author",
+    "examples": [
+        [
+            "Who is your favourite author?",
+            "\u00bfQui\u00e9n es tu autor favorito?"
+        ],
+        [
+            "He is the author of three books on art.",
+            "Es autor de tres libros de arte."
+        ],
+        [
+            "best-selling author Paul Theroux",
+            "autor m\u00e1s vendido Paul Theroux"
+        ],
+        [
+            "the lead author of the report",
+            "el autor principal del informe"
+        ]
+    ]
+}

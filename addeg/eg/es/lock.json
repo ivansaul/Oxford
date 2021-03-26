@@ -1,0 +1,21 @@
+{
+    "word": "lock",
+    "examples": [
+        [
+            "Did you lock the door?",
+            "\u00bfHas cerrado la puerta?"
+        ],
+        [
+            "David locked the car and slipped the key into his pocket. ",
+            "David cerr\u00f3 el coche y se meti\u00f3 la llave en el bolsillo."
+        ],
+        [
+            "The gates are locked at 6 o'clock.",
+            "Las puertas est\u00e1n cerradas a las 6 en punto."
+        ],
+        [
+            "a locked cabinet",
+            "un gabinete cerrado con llave"
+        ]
+    ]
+}
